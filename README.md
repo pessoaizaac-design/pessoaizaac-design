@@ -29,10 +29,9 @@ I'm passionate about technology, problem solving and building real-world applica
 ---
 
 # 📊 Statistics
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=pessoaizaac-design&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pessoaizaac-design&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pessoaizaac-design&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pessoaizaac-design&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
