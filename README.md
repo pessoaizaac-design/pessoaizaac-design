@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- Banner Futurista Ajustado -->
+  <!-- Banner Futurista Cyberpunk -->
   ![](https://capsule-render.vercel.app/api?type=cyberpunk&color=0:00F2FE,100:4FACFE&height=200&section=header&text=SYSTEM%20ONLINE&fontSize=40)
 
   <br />
 
-  <!-- Animação Digitando Ajustada -->
+  <!-- Animação Digitando -->
   ![](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vcenter=true&width=500&lines=Desenvolvedor(a)+|+Estudante+de+Computa%C3%A7%C3%A3o;Aperfei%C3%A7oando+Python%2C+HTML+e+CSS;Aprendendo+Java+e+JavaScript;Criando+interfaces+com+Figma+e+Canva)
 
   <br /><br />
@@ -66,12 +66,12 @@
   <br />
 
   <!-- Estatísticas do GitHub -->
-<!-- Estatísticas do GitHub -->
   <h3>📊 Estatísticas do GitHub</h3>
   <p>
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pessoaizaac-design&show_icons=true&theme=cyberpunk&include_all_commits=true&count_private=true" alt="Estatísticas" />
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pessoaizaac-design&layout=compact&theme=cyberpunk" alt="Linguagens" />
   </p>
+
   <br />
 
   <!-- Projetos em Destaque -->
@@ -82,7 +82,7 @@
         <h4>⚡ Projeto 1</h4>
         <p>Aplicação em Python integrada com interface web.</p>
         <p><code>Python</code> • <code>HTML</code> • <code>CSS</code></p>
-        <a href="https://github.com/SEU_USUARIO_GITHUB/NOME_DO_PROJETO_1">
+        <a href="https://github.com/pessoaizaac-design">
           <img src="https://img.shields.io/badge/Acessar-00F2FE?style=for-the-badge&logo=github&logoColor=black" />
         </a>
       </td>
@@ -90,7 +90,7 @@
         <h4>🎨 Projeto 2</h4>
         <p>Protótipo de interface e design responsivo.</p>
         <p><code>Figma</code> • <code>HTML</code> • <code>CSS</code></p>
-        <a href="https://github.com/SEU_USUARIO_GITHUB/NOME_DO_PROJETO_2">
+        <a href="https://github.com/pessoaizaac-design">
           <img src="https://img.shields.io/badge/Acessar-00F2FE?style=for-the-badge&logo=github&logoColor=black" />
         </a>
       </td>
