@@ -66,12 +66,12 @@
   <br />
 
   <!-- Estatísticas do GitHub -->
+<!-- Estatísticas do GitHub -->
   <h3>📊 Estatísticas do GitHub</h3>
   <p>
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pessoaizaac-design&show_icons=true&theme=cyberpunk&include_all_commits=true&count_private=true" alt="Estatísticas" />
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pessoaizaac-design&layout=compact&theme=cyberpunk" alt="Linguagens" />
   </p>
-
   <br />
 
   <!-- Projetos em Destaque -->
