@@ -12,10 +12,10 @@
 
   <!-- Redes Sociais / Contato -->
   <p>
-    <a href="mailto:seu-email@exemplo.com">
+    <a href="mailto:pessoaizaac@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://github.com/SEU_USUARIO_GITHUB">
+    <a href="https://github.com/pessoaizaac-design">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
@@ -69,7 +69,7 @@
   <h3>📊 Estatísticas do GitHub</h3>
   <p>
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=cyberpunk&include_all_commits=true&count_private=true" alt="Estatísticas" />
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=cyberpunk" alt="Linguagens" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pessoaizaac-design&layout=compact&theme=cyberpunk" alt="Linguagens" />
   </p>
 
   <br />
