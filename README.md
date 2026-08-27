@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=ISAAC%20//%20SYSTEM%20ONLINE&fontSize=42&fontAlign=50&fontAlignY=35&desc=Ciência%20da%20Computação%20•%20Dev%20em%20construção&descAlign=50&descAlignY=55&fontColor=00F0FF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=HIGOR%20//%20SYSTEM%20ONLINE&fontSize=42&fontAlign=50&fontAlignY=35&desc=Ciência%20da%20Computação%20•%20Dev%20em%20construção&descAlign=50&descAlignY=55&fontColor=00F0FF&animation=fadeIn" width="100%"/>
 
 <br>
 
@@ -23,7 +23,7 @@
 <img align="right" width="280" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python floating" />
 
 ```yaml
-usuario: Isaac
+usuario: Higor Pessoa
 funcao: Estudante de Ciência da Computação
 periodo: 2º Período
 status: [ Aprendendo | Codando | Evoluindo ]
