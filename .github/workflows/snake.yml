@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Gerar snake SVG
-        uses: Platane/[email protected]
+        uses: Platane/snk@v3
         with:
           github_user_name: pessoaizaac-design
           outputs: |
