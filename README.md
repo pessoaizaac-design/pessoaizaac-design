@@ -8,7 +8,7 @@
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=pessoaizaac-design&color=00F0FF&style=for-the-badge&label=VISUALIZA%C3%87%C3%95ES)
+![Profile Views](https://komarev.com)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0f0c29)
 ![Build](https://img.shields.io/badge/BUILD-EM%20EVOLU%C3%87%C3%83O-ff00c8?style=for-the-badge&logo=git&logoColor=white&labelColor=0f0c29)
 
@@ -80,7 +80,7 @@ Um projeto em Python focado em lógica e automação de tarefas simples, aplican
 
 `Python` `Lógica`
 
-[![Ver Repositório](https://img.shields.io/badge/VER_REPO-ff00c8?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29)([https://github.com/pessoaizaac-design](https://github.com/pessoaizaac-design/Aprendendo-Python-2-.git))
+[![Ver Repositório](https://img.shields.io/badge/VER_REPO-ff00c8?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29)](https://github.com/pessoaizaac-design/Aprendendo-Python-2-.git)
 
 </div>
 </td>
@@ -94,7 +94,7 @@ Landing page responsiva construída com HTML e CSS, com foco em design moderno p
 
 `HTML` `CSS` `Figma`
 
-[![Ver Repositório](https://img.shields.io/badge/VER_REPO-ff00c8?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29)]([https://github.com/pessoaizaac-design](https://github.com/pessoaizaac-design/Projeto-AniWave.git))
+[![Ver Repositório](https://img.shields.io/badge/VER_REPO-ff00c8?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29)](https://github.com/pessoaizaac-design/Projeto-AniWave.git)
 
 </div>
 </td>
@@ -108,7 +108,7 @@ Aplicação futura unindo lógica em Python com interface web, primeiro passo ru
 
 `Python` 
 
-[![Ver Repositório](https://img.shields.io/badge/VER_REPO-ff00c8?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29)]([https://github.com/pessoaizaac-design](https://github.com/Pedro-H-B-Paula/projeto-gestao-de-times-ageis.git))
+[![Ver Repositório](https://img.shields.io/badge/VER_REPO-ff00c8?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29)](https://github.com/Pedro-H-B-Paula/projeto-gestao-de-times-ageis.git)
 
 </div>
 </td>
@@ -147,11 +147,9 @@ Aplicação futura unindo lógica em Python com interface web, primeiro passo ru
 </div>
 
 > ⚙️ **Nota:** o *snake contribution* acima é gerado automaticamente por uma GitHub Action.
-> Caso ainda não esteja ativa, crie o arquivo `.github/workflows/snake.yml` no seu repositório de perfil usando a action [`Platane/snk`](https://github.com/Platane/snk) para gerar essa animação a partir do seu gráfico de contribuições.
+> Caso ainda não esteja activa, crie o arquivo `.github/workflows/snake.yml` no seu repositório de perfil usando a action [`Platane/snk`](https://github.com/Platane/snk) para gerar essa animação a partir do seu gráfico de contribuições.
 
-<div align="center">
-
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:24243e&height=2&width=100%" width="100%"/>
 
 ## `06.` ~ CONECTAR.sh
 
