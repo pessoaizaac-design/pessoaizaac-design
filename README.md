@@ -8,7 +8,6 @@
 
 <br><br>
 
-![Profile Views](https://komarev.com)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0f0c29)
 ![Build](https://img.shields.io/badge/BUILD-EM%20EVOLU%C3%87%C3%83O-ff00c8?style=for-the-badge&logo=git&logoColor=white&labelColor=0f0c29)
 
