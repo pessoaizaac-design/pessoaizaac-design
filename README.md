@@ -136,9 +136,6 @@ Aplicação futura unindo lógica em Python com interface web, primeiro passo ru
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pessoaizaac-design&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00F0FF&icon_color=ff00c8&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pessoaizaac-design&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00F0FF&text_color=c9d1d9" />
-
 <br>
 
 <img width="100%" src="https://github-readme-streak-stats-eight.vercel.app?user=pessoaizaac-design&theme=tokyonight&hide_border=true&background=0f0c29&stroke=00F0FF&ring=ff00c8&fire=ff00c8&currStreakLabel=00F0FF" />
@@ -154,13 +151,7 @@ Aplicação futura unindo lógica em Python com interface web, primeiro passo ru
 
 <div align="center">
 
-### 🏆 Troféus
 
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=pessoaizaac-design&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10&title=Commits,Stars,Repositories,Followers" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:24243e&height=2&width=100%" width="100%"/>
 
 ## `06.` ~ CONECTAR.sh
 
