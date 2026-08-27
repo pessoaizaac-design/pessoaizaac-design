@@ -73,42 +73,42 @@ modo_operacao: "Aprender na prática, construir sempre."
 <td width="33%" valign="top">
 <div align="center">
 
-### 🧠 Projeto Alpha
+### Projeto Python
 <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-00F0FF?style=flat-square&labelColor=0f0c29" />
 
 Um projeto em Python focado em lógica e automação de tarefas simples, aplicando estruturas de dados e boas práticas.
 
-`Python` `Lógica` `CLI`
+`Python` `Lógica`
 
-[![Ver Repositório](https://img.shields.io/badge/VER_REPO-ff00c8?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29)](https://github.com/pessoaizaac-design)
+[![Ver Repositório](https://img.shields.io/badge/VER_REPO-ff00c8?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29)([https://github.com/pessoaizaac-design](https://github.com/pessoaizaac-design/Aprendendo-Python-2-.git))
 
 </div>
 </td>
 <td width="33%" valign="top">
 <div align="center">
 
-### 🎨 Projeto Beta
+### Projeto HTML / CSS
 <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-00F0FF?style=flat-square&labelColor=0f0c29" />
 
 Landing page responsiva construída com HTML e CSS, com foco em design moderno prototipado antes no Figma.
 
 `HTML` `CSS` `Figma`
 
-[![Ver Repositório](https://img.shields.io/badge/VER_REPO-ff00c8?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29)](https://github.com/pessoaizaac-design)
+[![Ver Repositório](https://img.shields.io/badge/VER_REPO-ff00c8?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29)]([https://github.com/pessoaizaac-design](https://github.com/pessoaizaac-design/Projeto-AniWave.git))
 
 </div>
 </td>
 <td width="33%" valign="top">
 <div align="center">
 
-### 🚀 Projeto Gamma
+### Projeto Pokédex
 <img src="https://img.shields.io/badge/STATUS-PLANEJADO-8a2be2?style=flat-square&labelColor=0f0c29" />
 
 Aplicação futura unindo lógica em Python com interface web, primeiro passo rumo a projetos full-stack.
 
-`Python` `Web` `Full-stack`
+`Python` 
 
-[![Ver Repositório](https://img.shields.io/badge/VER_REPO-ff00c8?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29)](https://github.com/pessoaizaac-design)
+[![Ver Repositório](https://img.shields.io/badge/VER_REPO-ff00c8?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29)]([https://github.com/pessoaizaac-design](https://github.com/Pedro-H-B-Paula/projeto-gestao-de-times-ageis.git))
 
 </div>
 </td>
