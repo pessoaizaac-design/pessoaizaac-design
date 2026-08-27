@@ -1,49 +1,32 @@
-# Hi 👋, I'm Higor Pessoa
+<div align="center">
 
-`Computer Science Student`
+  <!-- BANNER PRINCIPAL / SYSTEM INITIALIZATION -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vcenter=true&width=500&height=50&lines=SYSTEM.INIT()%3B;WELCOME_TO_HIGOR_PROFILE;BUILDING_THE_FUTURE...;DESIGN_%2B_CODE" alt="Typing Animation" />
+  </a>
 
-I'm currently pursuing a Bachelor's degree in Computer Science and continuously improving my software development skills.
+  <h1 align="center">⚡ HIGOR // CYBERSPACE ⚡</h1>
+  <p align="center"><b>UI/UX Designer & Software Developer</b></p>
 
-I'm passionate about technology, problem solving and building real-world applications.
+  <!-- TYPING ANIMATION SUBTITLE -->
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=FF0055&center=true&vcenter=true&width=450&height=35&lines=Foco+em+Design%2C+Python%2C+Web+%26+Mobile;Sempre+buscando+novas+parcerias!" alt="Sub-typing" />
+    </a>
+  </p>
 
----
-
-# 🛠️ Tech Stack (evolving)
-
-## 💻 Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-## 📚 Currently Learning
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-## ⚙️ Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+</div>
 
 ---
 
-# 📊 Statistics
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=pessoaizaac-design&show_icons=true&theme=tokyonight&hide_border=true)
+### 🤖 sobre_mim.sh
 
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pessoaizaac-design&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-# 🚀 Goals
-
-- 🚀 Build impactful software projects.
-- 📖 Deepen my knowledge in Computer Science.
-- 💼 Land my first software engineering internship.
-- 🌎 Contribute to open source projects.
-
----
-
-⭐ Always learning and improving.
-
-🤝 Open to collaborations and new opportunities.
+```bash
+$ cat setup_higor.json
+{
+  "nome": "Higor",
+  "foco_atual": "Python (Intermediário -> Avançado)",
+  "estudando_agora": ["Java", "JavaScript"],
+  "design": "Figma & UI/UX Systems",
+  "open_to": ["Parcerias", "Projetos Open Source", "Freelances"]
+}
