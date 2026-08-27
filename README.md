@@ -1,73 +1,28 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Meu Portfólio</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #f4f4f9;
-      color: #333;
-    }
-    header {
-      background-color: #282c34;
-      color: white;
-      padding: 2rem 1rem;
-      text-align: center;
-    }
-    section {
-      max-width: 800px;
-      margin: 2rem auto;
-      padding: 0 1rem;
-    }
-    .skills-list {
-      display: flex;
-      gap: 10px;
-      flex-wrap: wrap;
-      list-style: none;
-      padding: 0;
-    }
-    .skill-item {
-      background: #e0e0e0;
-      padding: 8px 16px;
-      border-radius: 20px;
-      font-weight: bold;
-    }
-    a {
-      color: #0066cc;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
-<body>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Bem-vindo(a)%20ao%20meu%20perfil!&fontSize=38&animation=fadeIn" width="100%" />
 
-  <header>
-    <h1>Olá! Seja bem-vindo(a)</h1>
-    <p>Confira um pouco mais sobre minhas habilidades e como entrar em contato.</p>
-  </header>
+  <br />
 
-  <section>
-    <h2>Habilidades & Ferramentas</h2>
-    <ul class="skills-list">
-      <li class="skill-item">HTML5</li>
-      <li class="skill-item">CSS3</li>
-      <li class="skill-item">JavaScript</li>
-      <li class="skill-item">Canva</li>
-      <li class="skill-item">Git & GitHub</li>
-    </ul>
-  </section>
+  <p>
+    <a href="mailto:seu-email@exemplo.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
-  <section>
-    <h2>Contato</h2>
-    <p>Sinta-se à vontade para me mandar uma mensagem!</p>
-    <p><strong>E-mail:</strong> <a href="mailto:seu-email@exemplo.com">seu-email@exemplo.com</a></p>
-  </section>
+  <br />
 
-</body>
-</html>
+  <h3>🛠️ Ferramentas & Tecnologias</h3>
+
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </p>
+
+  <br />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
+</div>
