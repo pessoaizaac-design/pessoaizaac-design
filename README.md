@@ -87,7 +87,7 @@ Uma pasta Python focado em lógica e estudos de tarefas simples, aplicando estru
 <div align="center">
 
 ### Estudos HTML / CSS
-<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-00F0FF?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/STATUS-PLANEJADO-8a2be2?style=flat-square&labelColor=0f0c29" />
 
 Uma pasta HTML / CSS focada nos meus estudos e em projetos simples. Landing page responsiva construída com HTML e CSS, com foco em design moderno.
 
@@ -101,7 +101,7 @@ Uma pasta HTML / CSS focada nos meus estudos e em projetos simples. Landing page
 <div align="center">
 
 ### Estudos de JavaScript
-<img src="https://img.shields.io/badge/STATUS-PLANEJADO-8a2be2?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-00F0FF?style=flat-square&labelColor=0f0c29" />
 Pasta de estudo de JavaScript em andamento.
 
 `JavaScript` 
