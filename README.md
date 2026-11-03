@@ -102,6 +102,7 @@ Uma pasta HTML / CSS focada nos meus estudos e em projetos simples. Landing page
 
 ### Estudos de JavaScript
 <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-00F0FF?style=flat-square&labelColor=0f0c29" />
+
 Pasta de estudo de JavaScript em andamento.
 
 `JavaScript` 
