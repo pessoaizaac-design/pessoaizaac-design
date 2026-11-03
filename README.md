@@ -93,7 +93,7 @@ Uma pasta HTML / CSS focada nos meus estudos e em projetos simples. Landing page
 
 `HTML` `CSS` `Figma`
 
-[![Ver Repositório](https://img.shields.io/badge/VER_REPO-ff00c8?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29)](https://github.com/pessoaizaac-design/Projeto-AniWave.git](https://github.com/pessoaizaac-design/Aprendendo-Html-e-Css.git))
+[![Ver Repositório](https://img.shields.io/badge/VER_REPO-ff00c8?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29)](https://github.com/pessoaizaac-design/Aprendendo-Html-e-Css)
 
 </div>
 </td>
@@ -105,7 +105,7 @@ Uma pasta HTML / CSS focada nos meus estudos e em projetos simples. Landing page
 Pasta de estudo de JavaScript em andamento.
 `JavaScript` 
 
-[![Ver Repositório](https://img.shields.io/badge/VER_REPO-ff00c8?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29)](https://github.com/Pedro-H-B-Paula/projeto-gestao-de-times-ageis.git](https://github.com/pessoaizaac-design/Aprendendo-JS.git))
+[![Ver Repositório](https://img.shields.io/badge/VER_REPO-ff00c8?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29)](https://github.com/pessoaizaac-design/Aprendendo-JS)
 
 </div>
 </td>
