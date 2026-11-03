@@ -91,7 +91,7 @@ Uma pasta Python focado em lógica e estudos de tarefas simples, aplicando estru
 
 Uma pasta HTML / CSS focada nos meus estudos e em projetos simples. Landing page responsiva construída com HTML e CSS, com foco em design moderno.
 
-`HTML` `CSS` `Figma`
+`HTML` `CSS`
 
 [![Ver Repositório](https://img.shields.io/badge/VER_REPO-ff00c8?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29)](https://github.com/pessoaizaac-design/Aprendendo-Html-e-Css)
 
@@ -103,6 +103,7 @@ Uma pasta HTML / CSS focada nos meus estudos e em projetos simples. Landing page
 ### Estudos de JavaScript
 <img src="https://img.shields.io/badge/STATUS-PLANEJADO-8a2be2?style=flat-square&labelColor=0f0c29" />
 Pasta de estudo de JavaScript em andamento.
+
 `JavaScript` 
 
 [![Ver Repositório](https://img.shields.io/badge/VER_REPO-ff00c8?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29)](https://github.com/pessoaizaac-design/Aprendendo-JS)
