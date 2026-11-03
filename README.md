@@ -122,10 +122,10 @@ Pasta de estudo de JavaScript em andamento.
 
 | 🎯 Meta | 📊 Progresso |
 |:---|:---|
-| Finalizar **Python** (avançado) | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ `70%` |
-| Aprender **Java** (do zero) | 🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜ `20%` |
-| Aprender **JavaScript** (do zero) | 🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜ `10%` |
-| Aperfeiçoar **HTML & CSS** | 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ `60%` |
+| Finalizar **Python** (avançado) | 🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ `80%` |
+| Aprender **Java** (do zero) | 🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜ `10%` |
+| Aprender **JavaScript** (do zero) | 🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜ `20%` |
+| Aperfeiçoar **HTML & CSS** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜ `90%` |
 
 </div>
 
