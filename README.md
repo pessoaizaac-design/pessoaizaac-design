@@ -29,6 +29,7 @@ status: [ Aprendendo | Codando | Evoluindo ]
 
 habilidades_atuais:
   - Python (nível intermediário)
+  - JavaScript (Básico para intermediário)
   - HTML5 & CSS3
   - Figma (UI/UX)
   - Canva (Design gráfico)
